@@ -1,0 +1,23 @@
+body{
+  padding: 20px;
+  background-color: white;
+}
+
+.skeleton{
+  background-color: #cecece;
+  height: 30px;
+  width: 100%;
+}
+
+.post{
+  margin-top: 50px;
+}
+
+.img{
+  height: 200px;
+}
+
+.title{
+  background-color: #e4d103;
+  height: 40px;
+}
